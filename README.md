@@ -23,5 +23,10 @@ Excel (Initial data exploration & validation)
 Identify revenue leakage points and areas for improvement.
 Optimize pricing strategies to boost revenue per room.
 Improve occupancy rates by leveraging demand patterns.
+## 📂 Dataset  
+You can download the dataset from [here](data/dataset.csv).
+
 ## 📊 Dashboard Preview  
 ![Dashboard Screenshot](https://github.com/aditya924010/Hospitality-Domain-Insights-Dashboard/blob/main/dashboard.png)
+
+
