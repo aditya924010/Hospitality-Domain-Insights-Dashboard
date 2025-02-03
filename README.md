@@ -24,4 +24,4 @@ Identify revenue leakage points and areas for improvement.
 Optimize pricing strategies to boost revenue per room.
 Improve occupancy rates by leveraging demand patterns.
 ## 📊 Dashboard Preview  
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/aditya924010/Hospitality-Domain-Insights-Dashboard/blob/main/dashboard.png)
