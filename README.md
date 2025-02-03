@@ -24,7 +24,7 @@ Identify revenue leakage points and areas for improvement.
 Optimize pricing strategies to boost revenue per room.
 Improve occupancy rates by leveraging demand patterns.
 ## 📂 Dataset  
-You can download the dataset from [here](data/dataset.csv).
+You can download the dataset from [here](https://github.com/aditya924010/Hospitality-Domain-Insights-Dashboard/tree/main/Data).
 
 ## 📊 Dashboard Preview  
 ![Dashboard Screenshot](https://github.com/aditya924010/Hospitality-Domain-Insights-Dashboard/blob/main/dashboard.png)
